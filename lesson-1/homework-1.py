@@ -1,1 +1,1 @@
-print('This is ugly!')
+print('This is beautiful!')
